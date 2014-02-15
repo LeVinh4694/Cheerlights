@@ -53,6 +53,7 @@
 /** @defgroup Tamper_Pin_active_level 
   * @{
   */
+//LeVinh
 
 #define BKP_TamperPinLevel_High           ((uint16_t)0x0000)
 #define BKP_TamperPinLevel_Low            ((uint16_t)0x0001)
